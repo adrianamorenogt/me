@@ -4028,7 +4028,7 @@ body.is-preload #header.alt .logo {
 	transform: translateY(-0.5rem);
 	box-shadow: 0 0.4rem 0.8rem rgba(0, 0, 0, 0.1);
 	opacity: 1;
-	transform: scale(1.2);
+	transform: scale(1.15);
 }
 
 .cardxp {
@@ -4091,7 +4091,7 @@ body.is-preload #header.alt .logo {
 .card:hover .logoformacionsena,
 .card:hover .logoformacionucmc {
 	transform: rotate(8deg);
-	transform: scale(1.25);
+	transform: scale(1.2);
 }
 
 /*  */
