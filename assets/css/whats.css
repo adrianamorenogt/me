@@ -1,0 +1,20 @@
+.myfloat {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  bottom: 15px;
+  right: 16px;
+  background-color: #4cc370;
+  color: #fff;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+
+.myfloat:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: #3d9e5a;
+}
