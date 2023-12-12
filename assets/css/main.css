@@ -4101,11 +4101,34 @@ body.is-preload #header.alt .logo {
 	transition: transform 0.3s ease-in-out;
 }
 
+.logoSync img {
+	width: 18rem;
+	height: auto;
+	transition: transform 0.3s ease-in-out;
+	margin-bottom: 16px !important;
+	
+}
+
+
+.logoBravoBot img {
+	width: 18rem;
+	height: auto;
+	transition: transform 0.3s ease-in-out;
+	margin-bottom: 16px !important;
+}
+
 .logoformacionHIVE img {
 	width: 15rem;
 	height: auto;
 	transition: transform 0.3s ease-in-out;
 }
+
+.logoolplas img {
+	width: 5rem;
+	height: auto;
+	transition: transform 0.3s ease-in-out;
+}
+
 
 .logoformacionFOODIES img {
 	width: 15rem;
@@ -4251,6 +4274,24 @@ body.is-preload #header.alt .logo {
 	transform: scale(1.25);
 }
 
+.logoolplas:hover {
+	transform: rotate(20deg);
+	transform: scale(1.25);
+}
+
+
+
+.logoSync:hover {
+	transform: rotate(20deg);
+	transform: scale(1.25);
+}
+
+.logoBravoBot:hover {
+	transform: rotate(20deg);
+	transform: scale(1.25);
+}
+
+
 .logoformacionFOODIES:hover {
 	transform: rotate(20deg);
 	transform: scale(1.25);
@@ -4297,6 +4338,23 @@ body.is-preload #header.alt .logo {
 }
 
 .logoformacionHIVE:hover {
+	transform: rotate(20deg);
+	transform: scale(1.25);
+}
+
+
+.logoolplas:hover {
+	transform: rotate(20deg);
+	transform: scale(1.25);
+}
+
+
+.logoSync:hover {
+	transform: rotate(20deg);
+	transform: scale(1.25);
+}
+
+.logoBravoBot:hover {
 	transform: rotate(20deg);
 	transform: scale(1.25);
 }

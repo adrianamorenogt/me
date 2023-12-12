@@ -45,7 +45,7 @@ Los elementos HTML son seleccionados mediante el método querySelector o getElem
      * +relmsg es una variable que contiene el mensaje de texto que se incluirá en el mensaje de WhatsApp. El símbolo + se utiliza para enlazar la variable con la cadena de texto que se va a enviar.
      */
     /* window.open('https://wa.me/+573116854955?text=' + relmsg, '_blank'); */
-    window.open('https://wa.me/+573185002054?text=' + encodeURIComponent(defaultMsg), '_blank');
+    window.open('https://wa.me/+57223821972?text=' + encodeURIComponent(defaultMsg), '_blank');
 
   });
 
